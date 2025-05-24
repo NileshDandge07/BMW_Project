@@ -1,0 +1,3 @@
+The user can choose to continue working on my-feature-branch and
+push the same to gitlab repository. But here we will merge this into main 
+branch and push all the changes into main branch itself.
